@@ -31,12 +31,16 @@ apt-get install -y --force-yes \
     libevent-dev \
     libglib2.0-dev \
     libjpeg-dev \
+    libldap2-dev \
+    libltdl7 \
     libmagickwand-dev \
     libmysqlclient-dev \
     libncurses5-dev \
+    libpcre3-dev \
     libpq-dev \
     libpq5 \
     libreadline6-dev \
+    libsasl2-dev \
     libssl-dev \
     libxml2-dev \
     libxslt-dev \
