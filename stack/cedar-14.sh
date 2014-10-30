@@ -56,6 +56,7 @@ apt-get install -y --force-yes \
     python \
     python-dev \
     r-base-dev \
+    r-mathlib \
     ruby \
     ruby-dev \
     socat \
