@@ -49,6 +49,7 @@ apt-get install -y --force-yes \
     openssh-server \
     python \
     python-dev \
+    r-base-dev \
     ruby \
     ruby-dev \
     socat \
