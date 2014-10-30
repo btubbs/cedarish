@@ -23,12 +23,16 @@ apt-get install -y --force-yes \
     dnsutils \
     ed \
     git \
+    graphviz \
     imagemagick \
     iputils-tracepath \
     language-pack-en \
     libbz2-dev \
+    libcap-dev \
+    libcurl3-dev \
     libcurl4-openssl-dev \
     libevent-dev \
+    libffi-dev \
     libglib2.0-dev \
     libjpeg-dev \
     libldap2-dev \
@@ -44,6 +48,8 @@ apt-get install -y --force-yes \
     libssl-dev \
     libxml2-dev \
     libxslt-dev \
+    libyaml-0-2 \
+    libzmq-dev \
     netcat-openbsd \
     openssh-client \
     openssh-server \
