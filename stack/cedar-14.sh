@@ -49,6 +49,7 @@ apt-get install -y --force-yes \
     libxml2-dev \
     libxslt-dev \
     libyaml-0-2 \
+    libyaml-dev \
     libzmq-dev \
     netcat-openbsd \
     openssh-client \
